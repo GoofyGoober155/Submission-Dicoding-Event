@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Aplikasi Dicoding Events</string>
+    <string name="title_name">Event Name</string>
+    <string name="title_activity_bottom_navigation">BottomNavigation</string>
+    <string name="title_home">Home</string>
+    <string name="title_finish">Finish</string>
+    <string name="title_upcoming">Upcoming</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="title_setting">Settings</string>
+    <string name="event_title">eventTitle</string>
+    <string name="event_owner">penyelenggara</string>
+    <string name="event_time">time</string>
+    <string name="event_quota">quota</string>
+    <string name="event_desc">desc</string>
+    <string name="register">Register</string>
+    <string name="registrant">registrant</string>
+    <string name="category">category</string>
+    <string name="dicoding_event">Dicoding Event</string>
+    <string name="upcoming_events">Upcoming Events</string>
+    <string name="finished_events">Finished Events</string>
+    <string name="detail_event">Detail Event</string>
+    <string name="recommended">Recommendation Event For You</string>
+    <string name="favicon">favIcon</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="your_favorite_dicoding_events">Your Favorite Dicoding Events</string>
+    <string name="tidak_ada_event_favorit">Tidak ada event favorit</string>
+    <string name="dark_mode">Dark Mode</string>
+</resources>
